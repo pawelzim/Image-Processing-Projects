@@ -176,8 +176,6 @@ def PSNR(original, compressed):
 
 # ----------Main------------
 
-
-
 # scale_image(Image.open('interpolation.png'), -2, 0).save('down_Nearest.png')
 # scale_image(Image.open('down_Nearest.png'), 2, 0).save('down_up_Nearest.png')
 # #
